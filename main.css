@@ -20,6 +20,7 @@ header {
   background-color: white;
   padding-left: 50px;
   padding-right: 50px;
+  z-index: 1000;
 }
 
 h1 {
